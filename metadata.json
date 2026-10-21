@@ -1,0 +1,6 @@
+{
+  "name": "Smart Attendance Predictor",
+  "description": "AI-powered attendance management and predictive forecasting platform for academic institutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
